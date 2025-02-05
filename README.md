@@ -11,6 +11,8 @@ Extraia o arquivo ZIP em uma pasta do seu computador.
 
 Na pasta extraída, você verá os seguintes arquivos: 
 
+📂JacBot-main
+
 📂 ProjetoPrincipal
 
 ┣ 📜 ProjetoPrincipal.ino (código principal)
@@ -56,3 +58,23 @@ Clique em "Verificar" (ícone de ✔) para conferir se o código está correto.
 Clique em "Carregar" (ícone de ➡) para enviar o código ao Arduino.
 
 Se tiver dúvidas, entre em contato com nosso projeto! 🚀💡
+
+PARA OS ESQUEMAS ELÉTRICOS:
+
+*Os esquemas elétricos do robô já estão incluídos na pasta do projeto, então você não precisa baixar nada separadamente!*
+
+Após seguir os passos para baixar e extrair os arquivos do GitHub, você encontrará dois arquivos em PDF na pasta do projeto:
+
+📂 ProjetoPrincipal
+
+┣ 📜 DiagramaKitBot2motors.pdf (esquema para robô com 2 motores)
+
+┗ 📜 DiagramaKitBot4motors.pdf (esquema para robô com 4 motores)
+
+Como visualizar os esquemas?
+
+Abra a pasta onde extraiu os arquivos.
+
+Clique duas vezes no arquivo PDF correspondente ao seu robô (2 ou 4 motores).
+
+O arquivo será aberto em um visualizador de PDF (como o Adobe Reader ou o próprio navegador).
