@@ -57,7 +57,6 @@ Clique em "Verificar" (ícone de ✔) para conferir se o código está correto.
 
 Clique em "Carregar" (ícone de ➡) para enviar o código ao Arduino.
 
-Se tiver dúvidas, entre em contato com nosso projeto! 🚀💡
 
 PARA OS ESQUEMAS ELÉTRICOS:
 
@@ -78,3 +77,6 @@ Abra a pasta onde extraiu os arquivos.
 Clique duas vezes no arquivo PDF correspondente ao seu robô (2 ou 4 motores).
 
 O arquivo será aberto em um visualizador de PDF (como o Adobe Reader ou o próprio navegador).
+
+
+Se tiver dúvidas, entre em contato com nosso projeto! 🚀💡
